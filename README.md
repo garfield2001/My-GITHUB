@@ -1,2 +1,1 @@
-# My-GITHUB
-This repository is created so that i can try to explore things i didn't and soon to know here in github!
+I purposely deleted all inside of this that came from my main branch is to know or see how it really goes.
